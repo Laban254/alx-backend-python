@@ -1,6 +1,8 @@
 # 0x00. Python - Variable Annotations
 | `Python` | `Back-end` |
 
+![meme5](https://github.com/Laban254/alx-backend-python/assets/64686919/cb2e1555-6135-4596-adc6-ddbdb8b7e251)
+
 ## Concepts
 
 For this project, we expect you to look at this concept:

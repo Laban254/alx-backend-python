@@ -2,7 +2,8 @@
 
 | `Python` | `Back-end` |
 
-![meme](./images/meme1.png)
+
+<img width="638" alt="async" src="https://github.com/Laban254/alx-backend-python/assets/64686919/9de9c25c-6150-427d-8d7c-4ec2c8cb8c76">
 
 ## Resources
 
